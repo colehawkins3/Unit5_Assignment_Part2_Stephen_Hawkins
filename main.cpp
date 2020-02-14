@@ -32,8 +32,6 @@ int main( )
   cout << endl;
   cout << weeklyPay (15, 65.25,"Susan",2) << endl;
   cout << endl;
-  cout << weeklyPay (32.5, 100.25,"Tyson",1) << endl;
-  cout << endl;
   cout << weeklyPay (41, 14.75,"Mika",1) << endl;  
   cout << endl; 
   cout << weeklyPay (25, 15.0,"Eldridge",2) << endl; 
